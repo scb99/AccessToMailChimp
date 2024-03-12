@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8ExNJCP55dhqmbh5654uJ2i2yZFIEqw7ATcq4tvXgY0l7H0X8Cbv4AtadAyeO9LlrGMKnYHh2v6XvFJ3k2c8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruel\\Sync\\STPC Web App\\DBExplorerBlazorSLN3\\DBExplorerBlazor3\\AccessToMailChimp\\AccessToMailChimp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruel\\.nuget\\packages\\mailchimp.net.v3\\5.4.1\\mailchimp.net.v3.5.4.1.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.http\\3.1.8\\microsoft.extensions.http.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.0.64\\microsoft.visualstudio.threading.analyzers.17.0.64.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\bruel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
