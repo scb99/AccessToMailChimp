@@ -1,1 +1,1 @@
-﻿This project just has a reference to MailChimp.Net.V3 package CHANGE
+﻿This project just has a reference to MailChimp.Net.V3 package
