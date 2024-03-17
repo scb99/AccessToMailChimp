@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccessToMailChimp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eef6d10f5602f5dc2b7e7e107ae88a1b8853167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e24304bddc93bc2df82deb5a2496d04233189dce")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccessToMailChimp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccessToMailChimp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
