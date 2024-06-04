@@ -1,2 +1,2 @@
 ﻿This project just has a reference to MailChimp.Net.V3 package 
-Added test line 5
+Added test line 6
